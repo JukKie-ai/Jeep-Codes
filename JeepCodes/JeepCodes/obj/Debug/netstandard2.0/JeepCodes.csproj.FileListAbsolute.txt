@@ -1,0 +1,15 @@
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\bin\Debug\netstandard2.0\JeepCodes.deps.json
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\bin\Debug\netstandard2.0\JeepCodes.dll
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\bin\Debug\netstandard2.0\ref\JeepCodes.dll
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\bin\Debug\netstandard2.0\JeepCodes.pdb
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.csproj.AssemblyReference.cache
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.AssemblyInfoInputs.cache
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.AssemblyInfo.cs
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.dll
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\ref\JeepCodes.dll
+C:\Users\Nikola Tesla\source\repos\JeepCodes\JeepCodes\JeepCodes\obj\Debug\netstandard2.0\JeepCodes.pdb
